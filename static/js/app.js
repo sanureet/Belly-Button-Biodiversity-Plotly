@@ -126,7 +126,7 @@ function buildBarchart(sample) {
 }
 // buildBarchart(940);
 
-// dropdown menu
+//  building dropdown menu
 function init() {
     // grab dropdowm references from html
 
