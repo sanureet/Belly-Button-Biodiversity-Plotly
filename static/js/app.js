@@ -75,7 +75,7 @@ function buildbubblechart(sample) {
 // buildbubblechart(940);
 
 
-// build Bar chart
+// building Bar chart
 function buildBarchart(sample) {
 
     d3.json("samples.json").then((BBdata) => {
