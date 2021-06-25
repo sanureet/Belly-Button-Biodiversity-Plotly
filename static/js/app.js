@@ -27,7 +27,7 @@ function buildmetadata(sample) {
 
     });
 }
-// build metadata
+// building metadata
 
 // buildmetadata(940);
 // Bubble Chart
