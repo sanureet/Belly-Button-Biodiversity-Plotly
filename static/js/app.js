@@ -104,7 +104,7 @@ function buildBarchart(sample) {
             text: otu_labels.slice(0,10).reverse(),
         }];
     
-    // Create the data array for the plot
+    // Create the data array for the  bar plot
         var bardata = trace1;
     
     // Define the plot layout
