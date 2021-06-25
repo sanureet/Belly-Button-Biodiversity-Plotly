@@ -117,7 +117,7 @@ function buildBarchart(sample) {
 
 
     
-    // Plot the chart to a div tag with id "bar-plot"
+    // Plot the chart to a div tag with id "bar"
         Plotly.newPlot("bar", bardata, layout);
 
 
