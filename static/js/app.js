@@ -13,7 +13,7 @@ function buildmetadata(sample) {
         var data = metadataArray[0];
         console.log(data);
 
-        // update panel in index.html
+        // updating panel in index.html
         var panel = d3.select("#sample-metadata");
 
         // clear out
